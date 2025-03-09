@@ -6,19 +6,23 @@
     <img src="https://github.com/MadeByRedPCat/Unidroid/raw/main/Images/Unidroid-Light.png#gh-light-mode-only" width="420">
 </p>
 
+<div align="Center">
+    
+[![License][shield-repo-license]][repo-license]
+</div>
+
+
 <p align="Center">A desktop application built for your Android device. Including Root, Recovery, Fastboot, ADB tools, & more.</p>
 
 ---
-<h2 align="Center">
-Supported OSes
-</h2>
+<div align="Center">
 
-<p align="Center">
+## Supported OSes    
 - Windows 11 22000 or above
-</p>
-<p align="Center">
 - macOS Ventura or above
-</p>
-<p align="Center">
 - Android 8.0 (Oreo) or above
-</p>
+
+</div>
+
+[shield-repo-license]:  https://img.shields.io/github/license/MadeByRedPCat/Unidroid
+[repo-license]:  https://github.com/MadeByRedPCat/Unidroid/blob/main/LICENSE
